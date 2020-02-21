@@ -45,21 +45,3 @@ Sarendy of Lamera" instead of "Sarendy, the 24th of Lamera"
 
 The Araxian Calendar begins on Suriden, the 1st of Vymera, year 1, normally
 written "Suriden, 1 Vymera, 1".
-
-## Significant Dates
-
-| Month   | Day | Event                          | Description                                |
-| ------- | --- | ------------------------------ | ------------------------------------------ |
-| Vymera  | 1   | [Year's Dawn][01-vym]          | New year's day, when new laws are enacted. |
-| Treth   | 10  | [Voting Day (Belgrit)][10-tre] | The day when Belgritians vote.             |
-|         | 32  | [Beggar's Night][32-tre]       | Feast day celebrated with communal stew.   |
-| Lamera  | 32  | [Gadilay][32-lam]              | Halfling harvest festival, northern Aij.   |
-| Jaaldir | 32  | [Year's Dusk][32-jaa]          | End of the year celebration.               |
-
-## Year's Dawn
-
-[01-vym]: ./Holidays/Years-Dawn.md
-[10-tre]: ./Holidays/Voting-Day-Belgrit.md
-[32-tre]: ./Holidays/Years-Dusk.md
-[32-lam]: ./Holidays/Gadilay.md
-[32-jaa]: ./Holidays/Beggars-Night.md
