@@ -41,21 +41,6 @@ starts on a Suriden and ends on a Sarendy. Because of that, a more
 "old-fashioned" way of describing days by week number exists, e.g. "the 3rd
 Sarendy of Lamera" instead of "Sarendy, the 24th of Lamera"
 
-Delgarans love the number eight. They use base-eight (octal) math, so pretty
-much everything is based on the number eight in some way. Eight copper coins
-are worth one silver coin, eight silver are worth one gold, etc. It is
-suggested to adopt a more Delgaran style of counting in English to help keep
-this straight, as it can get confusing otherwise.
-
-| Term           | Numeric value |
-| -------------- | ------------- |
-| octave         | 8             |
-| dekoctave      | 64 (8^2)      |
-| hectoctave     | 512 (8^3)     |
-| kiloctave      | 4,096 (8^4)   |
-| kilodekoctave  | 32,768 (8^6)  |
-| kilohectoctave | 262,144 (8^7) |
-
 ## Origin and Reckoning
 
 The Araxian Calendar begins on Suriden, the 1st of Vymera, year 1, normally
@@ -63,20 +48,18 @@ written "Suriden, 1 Vymera, 1".
 
 ## Significant Dates
 
-| Month   | Day | Event                        | Description                                |
-| ------- | --- | ---------------------------- | ------------------------------------------ |
-| Vymera  | 1   | [Year's Dawn][ydwn]          | New year's day, when new laws are enacted. |
-| Treth   | 10  | [Voting Day (Belgrit)][vdbg] | The day when Belgritians vote.             |
-|         | 32  | [Beggar's Night][bgnt]       | Feast day celebrated with communal stew.   |
-| Lamera  | 32  | [Gadilay][gdly]              | Halfling harvest festival, northern Aij.   |
-| Jaaldir | 32  | [Year's Dusk][ydsk]          | End of the year celebration.               |
+| Month   | Day | Event                          | Description                                |
+| ------- | --- | ------------------------------ | ------------------------------------------ |
+| Vymera  | 1   | [Year's Dawn][01-vym]          | New year's day, when new laws are enacted. |
+| Treth   | 10  | [Voting Day (Belgrit)][10-tre] | The day when Belgritians vote.             |
+|         | 32  | [Beggar's Night][32-tre]       | Feast day celebrated with communal stew.   |
+| Lamera  | 32  | [Gadilay][32-lam]              | Halfling harvest festival, northern Aij.   |
+| Jaaldir | 32  | [Year's Dusk][32-jaa]          | End of the year celebration.               |
 
 ## Year's Dawn
 
-Foo
-
-[ydwn]: ./Holidays/Years-Dawn.md
-[vdbg]: ./Holidays/Voting-Day-Belgrit.md
-[ydsk]: ./Holidays/Years-Dusk.md
-[gdly]: ./Holidays/Gadilay.md
-[bgnt]: ./Holidays/Beggars-Night.md
+[01-vym]: ./Holidays/Years-Dawn.md
+[10-tre]: ./Holidays/Voting-Day-Belgrit.md
+[32-tre]: ./Holidays/Years-Dusk.md
+[32-lam]: ./Holidays/Gadilay.md
+[32-jaa]: ./Holidays/Beggars-Night.md
