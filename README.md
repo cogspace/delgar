@@ -1,4 +1,6 @@
-## Welcome!
+# Welcome!
+
+![Map of Delgar](./images/delgar-map-pretty.jpg)
 
 Delgar is a fantasy worldbuilding project I've been working on with some help from my brother and various friends for the past... many years.
 
