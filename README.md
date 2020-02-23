@@ -8,7 +8,7 @@ Bear in mind that this is mostly a personal project and this site is bound to be
 
 Anyway, have at it!
 
-![Map of Delgar](./images/delgar-map-pretty.jpg)
+![Map of Delgar](./images/delgar-512.jpg)
 
 ## Articles
 
